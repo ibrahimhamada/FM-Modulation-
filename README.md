@@ -5,7 +5,9 @@ My Project of the Communications Theory and Systems Course Offered in Spring 202
 In this project, FM is implmented using:
 
 A) MATLAB
+
 B) SIMULINK Blocks
+
 C) SIMULINK TOOLBOXES
 
 
